@@ -1,0 +1,92 @@
+
+
+
+
+
+body {
+
+    background-color: #FAD6A5;
+}
+
+.head{ 
+    
+    margin-left:400px;
+    margin-top:100px;
+}
+
+.title { 
+    font-family: "Didact Gothic", sans-serif;
+    font-size:3rem;
+    color: #243b7a;
+}
+
+.resume{
+    font-family: "Didact Gothic", sans-serif;
+    font-weight:800;
+    font-style: normal;
+    color:  #567189;
+}
+
+.dirio{
+    
+    margin-left: 150px;
+}
+
+.add{
+    
+     margin-left:150px;
+    font-family: "Nunito", sans-serif;
+    color: #270163da;
+}
+
+.sum {
+    margin-left:150px;
+    font-family: "Varela Round", sans-serif;
+    color: #88710d;
+}
+
+.summary{
+    margin-left:150px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:normal;
+}
+
+.job{
+    margin-left: 150px;
+    font-family: "Varela Round", sans-serif;
+    color: #1b880d;
+}
+
+.duty{
+    margin-left: 150px;
+    font-family: "Oooh Baby", cursive;
+    font-weight:1000;
+    font-style: normal;
+    font-size: 2rem;
+    color:#b34141 ;
+}
+
+.ul{
+    margin-left:150px;
+}
+
+.sim{
+      font-size: medium;
+      font-style: oblique;
+      margin-left:150px;
+      color:#b34141 ;
+}
+
+
+.abc{
+    margin-left:150px;
+}
+
+ref{
+    color: dodgerblue;
+}
+
+
+
